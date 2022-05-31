@@ -8,6 +8,9 @@
 ## :triangular_flag_on_post: About Me
 - :boy:![](https://img.shields.io/badge/-qq%3A1327349972-black)
 - [:sunflower: ![](https://img.shields.io/badge/-click%20to%20my%20blog-yellow)](https://xishenshiyufei.com/)
+
+
+![ice-berg123's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-berg123&layout=compact&hide_border=true&langs_count=10)
 <!--
 **ice-berg123/ice-berg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
